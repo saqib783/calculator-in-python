@@ -17,7 +17,7 @@ A lightweight, interactive command-line calculator built using Python. It suppor
 
 🎭 **Application Preview:**
 
-![Calculator Interface](./screenshot.png)
+![Calculator Interface](./https://github.com/saqib783/calculator-in-python/blob/79c282bc80b2ec9bea2dbd427f00f4cce1e22394/Screenshot%20(1990).png)
 *(Note: Upload your image to the repository and rename it to `screenshot.png` for this preview to display)*
 
 ---
